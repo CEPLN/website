@@ -1,0 +1,12 @@
+# Permalinks
+permalink:           pretty
+
+# Setup
+title:               CEPLN
+tagline:	Comissão Especial de Processamento de Linguagem Natural
+url:                 http://lanyon.getpoole.com
+baseurl:             ''
+paginate:            5
+
+
+gems: [jekyll-paginate]
