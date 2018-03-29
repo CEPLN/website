@@ -16,7 +16,7 @@ Dentre os periódicos dedicados ao PLN, alguns se destacam, como a Computational
 
 * _[Computer Speech and Language](http://www.elsevier.com/locate/csl)_;
 
-* _[Corpora](http://www.eup.ed.ac.uk/journals/content.aspx?pageId=1&journalId=12801)_;
+* _Corpora_;
 
 * _[Corpus Linguistics and Linguistic Theory](http://www.degruyter.com/journals/cllt)_;
 
@@ -34,7 +34,7 @@ Dentre os periódicos dedicados ao PLN, alguns se destacam, como a Computational
 
 * _[International Journal on Document Analysis and Recognition](http://www.springerlink.com/content/1433-2825/)_;
 
-* _[Journal of the American Society for Information Science and Technology](http://www.asis.org/Publications/JASIS/jasis.html)_;
+* _Journal of the American Society for Information Science and Technology_;
 
 * _[Journal of Intelligent Information Systems](http://www.springer.com/prod/j/0925-9902)_;
 
@@ -52,7 +52,7 @@ Dentre os periódicos dedicados ao PLN, alguns se destacam, como a Computational
 
 * _[Machine Translation](http://www.springerlink.com/content/1573-0573/)_;
 
-* _[Research on Language and Computation](http://www.dcs.kcl.ac.uk/journals/rolc/)_;
+* _Research on Language and Computation_;
 
 * _[Speech Communication](http://www.elsevier.com/locate/specom)_;
 
@@ -64,20 +64,20 @@ No âmbito geral de Inteligência Artificial, há muitos. Alguns são:
 
 * _[IEEE Intelligent Systems](http://www.computer.org/portal/site/intelligent//)_;
 
-* _[IEEE Transactions on Knowledge and Data Engineering](http://www.computer.org/portal/site/transactions/index.jsp?pageID=tkde_home)_;
+* _IEEE Transactions on Knowledge and Data Engineering_;
 
-* _[IEEE Transactions on Pattern Analysis and Machine Intelligence](http://www.computer.org/portal/site/transactions/index.jsp?pageID=tpami_home)_;
+* _IEEE Transactions on Pattern Analysis and Machine Intelligence_;
 
 * _[International Journal of Intelligent Systems](http://www3.interscience.wiley.com/cgi-bin/jhome/36062?CRETRY=1&SRETRY=0)_;
 
 * _[Journal of Artificial Intelligence Research](http://www.jair.org/)_;
 
-* _[Journal of Automated Reasoning](http://www-unix.mcs.anl.gov/JAR/)_;
+* _Journal of Automated Reasoning_;
 
 * _[Journal of Logic and Computation](http://logcom.oxfordjournals.org/)_;
 
 * _[Journal of Machine Learning Research](http://www.jmlr.org/)_;
 
-* _[Machine Learning](http://springerlink.metapress.com/content/1573-0565/)_.
+* _Machine Learning_.
 
 No Brasil, há dois periódicos abertos a todas as áreas da computação que são relevantes: o _Journal of the Brazilian Computer Society_ (JBCS), publicado pela própria SBC, e a Revista de Informática Teórica e Aplicada (RITA).
