@@ -4,7 +4,7 @@ title: PROPOR 2010
 permalink: /propor/propor_2010
 ---
 
-#IX PROPOR (2010)
+# IX PROPOR (2010)
 
 __Local e data__: PUCRS (Pontifícia Universidade Católica do Rio Grande do Sul), Porto Alegre/RS, Brasil, 27 a 30 de abril de 2010
 

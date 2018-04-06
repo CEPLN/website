@@ -7,5 +7,6 @@ tagline:	Comissão Especial de Processamento de Linguagem Natural
 baseurl:             ''
 paginate:            5
 
+paginate_path: "/blog/page:num/"
 
 gems: [jekyll-paginate]
