@@ -1,7 +1,7 @@
 ---
 layout: default
 title: PROPOR 2012
-permalink: /propor/propor_2012/
+permalink: /propor/propor_2012
 ---
 
 # X PROPOR (2012)

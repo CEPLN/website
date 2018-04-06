@@ -1,7 +1,7 @@
 ---
 layout: default
 title: PROPOR 1999
-permalink: /propor/propor_1999/
+permalink: /propor/propor_1999
 ---
 
 # IV PROPOR (1999)

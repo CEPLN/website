@@ -1,7 +1,7 @@
 ---
 layout: default
 title: PROPOR 2008
-permalink: /propor/propor_2008/
+permalink: /propor/propor_2008
 ---
 
 # VIII PROPOR (2008)
