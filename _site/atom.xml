@@ -2,15 +2,33 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>CEPLN</title>
- <link href="http://lanyon.getpoole.com/atom.xml" rel="self"/>
- <link href="http://lanyon.getpoole.com/"/>
- <updated>2018-03-28T22:31:45-03:00</updated>
- <id>http://lanyon.getpoole.com</id>
+ <link href="/atom.xml" rel="self"/>
+ <link href="/"/>
+ <updated>2018-04-06T00:34:21-03:00</updated>
+ <id></id>
  <author>
    <name></name>
    <email></email>
  </author>
 
+ 
+ <entry>
+   <title>Workshop de 25 anos do NILC</title>
+   <link href="/blog/2018/04/05/nilc/"/>
+   <updated>2018-04-05T00:00:00-03:00</updated>
+   <id>/blog/2018/04/05/nilc</id>
+   <content type="html">&lt;p&gt;O Thiago A. S. Pardo convida os interessados para participarem do
+workshop comemorativo do NILC, que será realizado no dia 4/maio
+(sexta-feira). Nessa ocasião, vamos comemorar 25 anos de existência e
+de muito trabalho do grupo :-)&lt;/p&gt;
+
+&lt;p&gt;O site do workshop está no link abaixo:&lt;/p&gt;
+
+&lt;p&gt;https://sites.google.com/icmc.usp.br/workshopdonilc-25anos&lt;/p&gt;
+
+&lt;p&gt;O evento é aberto e gratuito. Todos são bem-vindos.&lt;/p&gt;
+</content>
+ </entry>
  
 
 </feed>
