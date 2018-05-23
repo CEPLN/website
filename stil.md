@@ -15,6 +15,43 @@ O STIL é o principal evento nacional apoiado e organizado pela Comissão Especi
 
 __Edições passadas do STIL__
 
-* [STIL 2015](/files/ProceedingsSTIL2015.pdf)
-* [STIL 2013](/files/Proceedings_STIL2013.pdf)
-
+* __STIL 2015__
+	* Data: 4 a 7 de Novembro
+	* Local: Natal – RN
+	* [Site](/files/ProceedingsSTIL2015.pdf)
+* __STIL 2013__
+	* Data: 21 a 23 de Outubro
+	* Local: Fortaleza – CE
+	* [Site](/files/Proceedings_STIL2013.pdf)
+* __STIL 2011__
+	* Data: 24 a 26 de Outubro
+	* Local: Cuiabá – MT
+	* [Site](http://www.nilc.icmc.usp.br/til/stil2011_English/index.html)
+* __STIL 2009__
+	* Data: 8 a 11 de Setembro
+	* Local: São Carlos – SP
+	* [Site](http://www.nilc.icmc.usp.br/til/stil2009_English/index.html)
+* __TIL 2008__ 
+	* Data: 27 e 28 de Outubro
+	* Local: Vila Velha – ES
+	* [Site](http://www.nilc.icmc.usp.br/til/til2008/index.htm)
+* __TIL 2007__
+	* Data: 5 e 6 de Julho
+	* Local: Rio de Janeiro – RJ
+	* [Site](http://www.nilc.icmc.usp.br/til/til2007/index.htm)
+* __TIL 2006__
+	* Data: 27 e 28 de Outubro
+	* Local: Ribeirão Preto – SP
+	* [Site](http://www.nilc.icmc.usp.br/til/til2006/index.htm)
+* __TIL 2005__
+	* Data: 25 e 26 de Julho
+	* Local: São Leopoldo – RS
+	* [Site](http://www.nilc.icmc.usp.br/til/til2005/index.htm)
+* __TIL 2004__
+	* Data: 5 e 6 de Agosto
+	* Local: Salvador – BA
+	* [Site](http://www.nilc.icmc.usp.br/til/til2004/index.htm)
+* __TIL 2003__
+	* Data: 12 de Outubro
+	* Local: São Carlos – SP
+	* [Site](http://www.nilc.icmc.usp.br/til/til2003/index.htm)
