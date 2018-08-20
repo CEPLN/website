@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Comissão
-permalink: /comissao/
+permalink: comissao/
 ---
 
 # Comissão atual

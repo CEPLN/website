@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Eventos
-permalink: /eventos/
+permalink: eventos/
 ---
 
 O principal evento nacional promovido pela CE-PLN é o __STIL - Simpósio Brasileiro de Tecnologia da Informação e da Linguagem Humana__, anteriormente conhecido como TIL (Workshop de Tecnologia da Informação e da Linguagem Humana). O primeiro STIL foi realizado em 2003, mas o movimento para sua criação foi iniciado em Novembro do ano anterior, em uma reunião realizada na UNISINOS com alguns dos principais pesquisadores da área, como os Profs. Drs. Renata Vieira, Vera L. Strube de Lima, Maria das Graças V. Nunes, Bento C. Dias da Silva, Lucia H. M. Rino e Rove L. O. Chishman. O STIL tem o propósito de estimular o desenvolvimento de uma área genuinamente multidisciplinar – Tecnologia da Informação e da Linguagem Humana – procurando atrair pesquisadores, membros da comunidade acadêmica e da indústria que atuam nas áreas de Ciência da Computação, Lingüística e Ciência da Informação, entre outras, pois o processamento computacional das línguas humanas requer a coordenação de esforços de diversas comunidades, que contribuem com conhecimentos específicos e metodologias de pesquisa próprias no desenvolvimento de técnicas e sistemas. O principal objetivo do STIL é fornecer o fórum adequado para a integração dessas comunidades. Todas os dados sobre o STIL e suas edições podem ser encontrado na [página do evento](/stil/).
