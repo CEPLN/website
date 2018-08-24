@@ -4,11 +4,36 @@ title: Eventos
 permalink: eventos/
 ---
 
-O principal evento nacional promovido pela CE-PLN é o __STIL - Simpósio Brasileiro de Tecnologia da Informação e da Linguagem Humana__, anteriormente conhecido como TIL (Workshop de Tecnologia da Informação e da Linguagem Humana). O primeiro STIL foi realizado em 2003, mas o movimento para sua criação foi iniciado em Novembro do ano anterior, em uma reunião realizada na UNISINOS com alguns dos principais pesquisadores da área, como os Profs. Drs. Renata Vieira, Vera L. Strube de Lima, Maria das Graças V. Nunes, Bento C. Dias da Silva, Lucia H. M. Rino e Rove L. O. Chishman. O STIL tem o propósito de estimular o desenvolvimento de uma área genuinamente multidisciplinar – Tecnologia da Informação e da Linguagem Humana – procurando atrair pesquisadores, membros da comunidade acadêmica e da indústria que atuam nas áreas de Ciência da Computação, Lingüística e Ciência da Informação, entre outras, pois o processamento computacional das línguas humanas requer a coordenação de esforços de diversas comunidades, que contribuem com conhecimentos específicos e metodologias de pesquisa próprias no desenvolvimento de técnicas e sistemas. O principal objetivo do STIL é fornecer o fórum adequado para a integração dessas comunidades. Todas os dados sobre o STIL e suas edições podem ser encontrado na [página do evento](/stil/).
+O principal evento nacional promovido pela CE-PLN é o __STIL -
+Simpósio Brasileiro de Tecnologia da Informação e da Linguagem
+Humana__, anteriormente conhecido como TIL (Workshop de Tecnologia da
+Informação e da Linguagem Humana). O primeiro STIL foi realizado em
+2003, mas o movimento para sua criação foi iniciado em Novembro do ano
+anterior, em uma reunião realizada na UNISINOS com alguns dos
+principais pesquisadores da área, como os Profs. Drs. Renata Vieira,
+Vera L. Strube de Lima, Maria das Graças V. Nunes, Bento C. Dias da
+Silva, Lucia H. M. Rino e Rove L. O. Chishman. O STIL tem o propósito
+de estimular o desenvolvimento de uma área genuinamente
+multidisciplinar – Tecnologia da Informação e da Linguagem Humana –
+procurando atrair pesquisadores, membros da comunidade acadêmica e da
+indústria que atuam nas áreas de Ciência da Computação, Lingüística e
+Ciência da Informação, entre outras, pois o processamento
+computacional das línguas humanas requer a coordenação de esforços de
+diversas comunidades, que contribuem com conhecimentos específicos e
+metodologias de pesquisa próprias no desenvolvimento de técnicas e
+sistemas. O principal objetivo do STIL é fornecer o fórum adequado
+para a integração dessas comunidades. Todas os dados sobre o STIL e
+suas edições podem ser encontrado na [página do evento]({{ site.baseurl }}{% link stil.md %}).
 
-No cenário internacional, o __PROPOR (International Conference on Computational Processing of Portuguese Language)__ é o evento mais importante para a língua portuguesa, sendo organizado pela comunidade brasileira de PLN e por pesquisadores de Portugal a cada 2 anos, realizado ora no Brasil, ora em Portugal. Mais informações sobre o evento podem ser encontradas na [página do evento](/propor/).
+No cenário internacional, o __PROPOR (International Conference on
+Computational Processing of Portuguese Language)__ é o evento mais
+importante para a língua portuguesa, sendo organizado pela comunidade
+brasileira de PLN e por pesquisadores de Portugal a cada 2 anos,
+realizado ora no Brasil, ora em Portugal. Mais informações sobre o
+evento podem ser encontradas na [página do evento]({{ site.baseurl }}{% link propor.md %}).
 
-Há diversos outros eventos nacionais e internacionais dedicados ao PLN e áreas afins. Entre os mais conhecidos, valem citar:
+Há diversos outros eventos nacionais e internacionais dedicados ao PLN
+e áreas afins. Entre os mais conhecidos, valem citar:
 
 * ACL - International Conference of the Association of Computational Linguistics
 
@@ -171,4 +196,8 @@ Há diversos outros eventos nacionais e internacionais dedicados ao PLN e áreas
 * WTI - International Workshop on Web and Text Intelligence
      
 
-No Brasil, destacam-se também os eventos gerais de Inteligência Artificial, como o SBIA - Simpósio Brasileiro de Inteligência Artificial - e o ENIA - Encontro Nacional de Inteligência Artificial, agora realizados conjuntamente no âmbito do BRACIS - _Brazilian Conference on Intelligent System_.
+No Brasil, destacam-se também os eventos gerais de Inteligência
+Artificial, como o SBIA - Simpósio Brasileiro de Inteligência
+Artificial - e o ENIA - Encontro Nacional de Inteligência Artificial,
+agora realizados conjuntamente no âmbito do BRACIS - _Brazilian
+Conference on Intelligent System_.

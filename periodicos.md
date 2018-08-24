@@ -4,7 +4,11 @@ title: Periódicos
 permalink: /periodicos/
 ---
 
-Dentre os periódicos dedicados ao PLN, alguns se destacam, como a Computational Linguistics, organizada pela ACL (Association for Computational Linguistics, principal associação mundial da área) e o Journal of Natural Language Engineering. Outros periódicos relevantes de PLN e áreas afins são:
+Dentre os periódicos dedicados ao PLN, alguns se destacam, como a
+Computational Linguistics, organizada pela ACL (Association for
+Computational Linguistics, principal associação mundial da área) e o
+Journal of Natural Language Engineering. Outros periódicos relevantes
+de PLN e áreas afins são:
 
 * _[ACM Transactions on Speech and Language Processing](http://www.acm.org/pubs/tslp.html)_;
 
@@ -80,4 +84,7 @@ No âmbito geral de Inteligência Artificial, há muitos. Alguns são:
 
 * _Machine Learning_.
 
-No Brasil, há dois periódicos abertos a todas as áreas da computação que são relevantes: o _Journal of the Brazilian Computer Society_ (JBCS), publicado pela própria SBC, e a Revista de Informática Teórica e Aplicada (RITA).
+No Brasil, há dois periódicos abertos a todas as áreas da computação
+que são relevantes: o _Journal of the Brazilian Computer Society_
+(JBCS), publicado pela própria SBC, e a Revista de Informática Teórica
+e Aplicada (RITA).
