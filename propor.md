@@ -30,18 +30,18 @@ Encontram-se abaixo a composição do Comitê Gestor e seu regimento.
 
 Sínteses estruturadas das várias edições do evento:
 
-* [PROPOR 2016](/propor/propor_2016)
-* [PROPOR 2014](/propor/propor_2014)
-* [PROPOR 2012](/propor/propor_2012)
-* [PROPOR 2010](/propor/propor_2010)
-* [PROPOR 2008](/propor/propor_2008)
-* [PROPOR 2006](/propor/propor_2006)
-* [PROPOR 2003](/propor/propor_2003)
-* [PROPOR 2000](/propor/propor_2000)
-* [PROPOR 1999](/propor/propor_1999)
-* [PROPOR 1998](/propor/propor_1998)
-* [PROPOR 1996](/propor/propor_1996)
-* [PROPOR 1993](/propor/propor_1993)
+* [PROPOR 2016]({{ site.baseurl }}propor/propor_2016.html)
+* [PROPOR 2014]({{ site.baseurl }}propor/propor_2014.html)
+* [PROPOR 2012]({{ site.baseurl }}propor/propor_2012.html)
+* [PROPOR 2010]({{ site.baseurl }}propor/propor_2010.html)
+* [PROPOR 2008]({{ site.baseurl }}propor/propor_2008.html)
+* [PROPOR 2006]({{ site.baseurl }}propor/propor_2006.html)
+* [PROPOR 2003]({{ site.baseurl }}propor/propor_2003.html)
+* [PROPOR 2000]({{ site.baseurl }}propor/propor_2000.html)
+* [PROPOR 1999]({{ site.baseurl }}propor/propor_1999.html)
+* [PROPOR 1998]({{ site.baseurl }}propor/propor_1998.html)
+* [PROPOR 1996]({{ site.baseurl }}propor/propor_1996.html)
+* [PROPOR 1993]({{ site.baseurl }}propor/propor_1993.html)
 
 ---
 
