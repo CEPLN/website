@@ -42,6 +42,10 @@ Brasileira de Computação (SBC).
 
 __Edições passadas do STIL__
 
+* __STIL 2017__
+	* Data: 2 a 4 de Outubro
+	* Local: Uberlândia - MG
+	* [Site](http://www.bracis2017.ufu.br/stil-symposium-information-and-human-language-technology)
 * __STIL 2015__
 	* Data: 4 a 7 de Novembro
 	* Local: Natal – RN
