@@ -20,7 +20,7 @@ próprio evento:
 
 Pardo, T.A.S.; Caseli, H.M.; Nunes, M.G.V. (2009). [Mapeamento da
 Comunidade Brasileira de Processamento de Línguas
-Naturais](/files/STIL2009-Painel-PardoEtAl.pdf). Nos _Anais do VII
+Naturais]({{ site.baseurl }}files/STIL2009-Painel-PardoEtAl.pdf). Nos _Anais do VII
 Simpósio Brasileiro de Tecnologia da Informação e da Linguagem
 Humana_ - STIL 2009, pp. 1-21. 8 a 11 de Setembro, São Carlos/SP,
 Brasil.
