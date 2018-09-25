@@ -1,7 +1,7 @@
 ---
 layout: default
 title: PROPOR 2010
-permalink: /propor/propor_2010
+permalink: /eventos/propor/propor_2010
 ---
 
 # IX PROPOR (2010)

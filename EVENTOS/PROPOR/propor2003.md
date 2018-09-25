@@ -1,7 +1,7 @@
 ---
 layout: default
 title: PROPOR 2003
-permalink: /propor/propor_2003
+permalink: /eventos/propor/propor_2003
 ---
 
 # VI PROPOR (2003)

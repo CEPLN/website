@@ -1,7 +1,7 @@
 ---
 layout: default
 title: PROPOR 2000
-permalink: /propor/propor_2000
+permalink: /eventos/propor/propor_2000
 ---
 
 # V PROPOR (2000)

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: PROPOR 2014
-permalink: /propor/propor_2014
+permalink: /eventos/propor/propor_2014
 ---
 
 # XI PROPOR (2014)

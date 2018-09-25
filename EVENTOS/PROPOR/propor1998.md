@@ -1,7 +1,7 @@
 ---
 layout: default
 title: PROPOR 1998
-permalink: /propor/propor_1998
+permalink: /eventos/propor/propor_1998
 ---
 
 # III PROPOR (1998)

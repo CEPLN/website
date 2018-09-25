@@ -1,7 +1,7 @@
 ---
 layout: page
 title: PROPOR
-permalink: /propor/
+permalink: /eventos/propor/
 ---
 
 O evento PROPOR (_International Conference on Computational Processing
@@ -30,18 +30,18 @@ Encontram-se abaixo a composição do Comitê Gestor e seu regimento.
 
 Sínteses estruturadas das várias edições do evento:
 
-* [PROPOR 2016]({{ site.baseurl }}propor/propor_2016.html)
-* [PROPOR 2014]({{ site.baseurl }}propor/propor_2014.html)
-* [PROPOR 2012]({{ site.baseurl }}propor/propor_2012.html)
-* [PROPOR 2010]({{ site.baseurl }}propor/propor_2010.html)
-* [PROPOR 2008]({{ site.baseurl }}propor/propor_2008.html)
-* [PROPOR 2006]({{ site.baseurl }}propor/propor_2006.html)
-* [PROPOR 2003]({{ site.baseurl }}propor/propor_2003.html)
-* [PROPOR 2000]({{ site.baseurl }}propor/propor_2000.html)
-* [PROPOR 1999]({{ site.baseurl }}propor/propor_1999.html)
-* [PROPOR 1998]({{ site.baseurl }}propor/propor_1998.html)
-* [PROPOR 1996]({{ site.baseurl }}propor/propor_1996.html)
-* [PROPOR 1993]({{ site.baseurl }}propor/propor_1993.html)
+* [PROPOR 2016]({{ site.baseurl }}eventos/propor/propor_2016.html)
+* [PROPOR 2014]({{ site.baseurl }}eventos/propor/propor_2014.html)
+* [PROPOR 2012]({{ site.baseurl }}eventos/propor/propor_2012.html)
+* [PROPOR 2010]({{ site.baseurl }}eventos/propor/propor_2010.html)
+* [PROPOR 2008]({{ site.baseurl }}eventos/propor/propor_2008.html)
+* [PROPOR 2006]({{ site.baseurl }}eventos/propor/propor_2006.html)
+* [PROPOR 2003]({{ site.baseurl }}eventos/propor/propor_2003.html)
+* [PROPOR 2000]({{ site.baseurl }}eventos/propor/propor_2000.html)
+* [PROPOR 1999]({{ site.baseurl }}eventos/propor/propor_1999.html)
+* [PROPOR 1998]({{ site.baseurl }}eventos/propor/propor_1998.html)
+* [PROPOR 1996]({{ site.baseurl }}eventos/propor/propor_1996.html)
+* [PROPOR 1993]({{ site.baseurl }}eventos/propor/propor_1993.html)
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: PROPOR 2016
-permalink: /propor/propor_2016
+permalink: /eventos/propor/propor_2016
 ---
 
 # XII PROPOR (2016)

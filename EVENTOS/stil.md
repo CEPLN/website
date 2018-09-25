@@ -1,7 +1,7 @@
 ---
 layout: page
 title: STIL
-permalink: /stil/
+permalink: /eventos/stil/
 ---
 
 _Simpósio Brasileiro de Tecnologia da Informação e da Linguagem Humana_
