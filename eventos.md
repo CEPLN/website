@@ -54,7 +54,7 @@ Outros eventos relacionados:
 
 * _[CoNLL - Conference on Natural Language Learning](http://www.conll.org/2018)_
 
-* TLT - International Workshop on Treebanks and Linguistic Theories
+* _TLT - International Workshop on Treebanks and Linguistic Theories_
 
 * _[GWC - International Global Wordnet Conference](http://globalwordnet.org/global-wordnet-conferences-2/)_
 

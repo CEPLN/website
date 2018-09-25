@@ -8,87 +8,87 @@ Dentre os periódicos dedicados ao PLN, alguns se destacam, como a Computational
 
 Outros periódicos relevantes de PLN e áreas afins são:
 
-* [ACM Transactions on Information Systems](https://tois.acm.orgx)
+* _[ACM Transactions on Information Systems](https://tois.acm.orgx)_
 
-* [Transactions of the Association for Computational Linguistics](https://www.transacl.org/ojs/index.php/tacl)
+* _[Transactions of the Association for Computational Linguistics](https://www.transacl.org/ojs/index.php/tacl)_
 
-* [Natural Language Engineering](https://www.cambridge.org/core/journals/natural-language-engineering)
+* _[Natural Language Engineering](https://www.cambridge.org/core/journals/natural-language-engineering)_
 
-* [Natural Language Processing](https://www.jstage.jst.go.jp/browse/jnlp)
+* _[Natural Language Processing](https://www.jstage.jst.go.jp/browse/jnlp)_
 
-* [Language Resources and Evaluation Journal](https://link.springer.com/journal/10579)
+* _[Language Resources and Evaluation Journal](https://link.springer.com/journal/10579)_
 
-* [Computational Linguistics](https://www.mitpressjournals.org/loi/coli)
+* _[Computational Linguistics](https://www.mitpressjournals.org/loi/coli)_
 
-* [Theory and Applications of Natural Language Processing](https://www.springer.com/series/8899)
+* _[Theory and Applications of Natural Language Processing](https://www.springer.com/series/8899)_
 
-* [Corpus Linguistics and Linguistic Theory](https://www.degruyter.com/view/j/cllt)
+* _[Corpus Linguistics and Linguistic Theory](https://www.degruyter.com/view/j/cllt)_
 
-* [Computer Speech and Language](https://www.journals.elsevier.com/computer-speech-and-language)
+* _[Computer Speech and Language](https://www.journals.elsevier.com/computer-speech-and-language)_
 
-* [Corpora](https://www.euppublishing.com/loi/COR)
+* _[Corpora](https://www.euppublishing.com/loi/COR)_
 
-* [Information Retrieval](https://www.springer.com/computer/database+management+%26+information+retrieval/journal/10791)
+* _[Information Retrieval](https://www.springer.com/computer/database+management+%26+information+retrieval/journal/10791)_
 
-* [International Journal of Human-Computer Studies](https://www.journals.elsevier.com/international-journal-of-human-computer-studies/)
+* _[International Journal of Human-Computer Studies](https://www.journals.elsevier.com/international-journal-of-human-computer-studies/)_
 
-* [Journal of Intelligent Information Systems](https://www.springer.com/computer/database+management+%26+information+retrieval/journal/10844)
+* _[Journal of Intelligent Information Systems](https://www.springer.com/computer/database+management+%26+information+retrieval/journal/10844)_
 
-* [Research on Language and Computation](https://link.springer.com/journal/11168)
+* _[Research on Language and Computation](https://link.springer.com/journal/11168)_
 
-* [Journal of Logic, Language and Information](https://link.springer.com/journal/10849)
+* _[Journal of Logic, Language and Information](https://link.springer.com/journal/10849)_
 
-* [Journal of Web Semantics](https://www.journals.elsevier.com/journal-of-web-semantics/)
+* _[Journal of Web Semantics](https://www.journals.elsevier.com/journal-of-web-semantics/)_
 
-* [Linguamática](http://linguamatica.com/index.php/linguamatica)
+* _[Linguamática](http://linguamatica.com/index.php/linguamatica)_
 
-* [Linguistic Issues in Language Technology](http://csli-lilt.stanford.edu/ojs/index.php/LiLT/index)
+* _[Linguistic Issues in Language Technology](http://csli-lilt.stanford.edu/ojs/index.php/LiLT/index)_
 
-* [Machine Translation](https://link.springer.com/journal/10590)
+* _[Machine Translation](https://link.springer.com/journal/10590)_
 
-* [Speech Communication](https://www.journals.elsevier.com/speech-communication)
+* _[Speech Communication](https://www.journals.elsevier.com/speech-communication)_
 
-* [Journal of the Brazilian Computer Society](https://www.springer.com/computer/journal/13173)
+* _[Journal of the Brazilian Computer Society](https://www.springer.com/computer/journal/13173)_
 
-* [Revista de Informática Teórica e Aplicada - RITA](http://seer.ufrgs.br/rita)
+* _[Revista de Informática Teórica e Aplicada - RITA](http://seer.ufrgs.br/rita)_
 
-* [Texto Livre: Linguagem e Tecnologia](http://www.periodicos.letras.ufmg.br/index.php/textolivre/announcement/view/186)
+* _[Texto Livre: Linguagem e Tecnologia](http://www.periodicos.letras.ufmg.br/index.php/textolivre/announcement/view/186)_
 
-* [Computer and Information Science](http://www.ccsenet.org/journal/index.php/cis)
+* _[Computer and Information Science](http://www.ccsenet.org/journal/index.php/cis)_
 
-* [Information Sciences](https://www.journals.elsevier.com/information-sciences)
+* _[Information Sciences](https://www.journals.elsevier.com/information-sciences)_
 
-* [Information Processing and Management](https://www.journals.elsevier.com/information-processing-and-management/)
+* _[Information Processing and Management](https://www.journals.elsevier.com/information-processing-and-management/)_
 
-* [Information Processing Letters](https://www.journals.elsevier.com/information-processing-letters)
+* _[Information Processing Letters](https://www.journals.elsevier.com/information-processing-letters)_
 
-* [Artificial Intelligence](https://www.journals.elsevier.com/artificial-intelligence/)
+* _[Artificial Intelligence](https://www.journals.elsevier.com/artificial-intelligence/)_
 
-* [IEEE Intelligent Systems](https://publications.computer.org/intelligent-systems/)
+* _[IEEE Intelligent Systems](https://publications.computer.org/intelligent-systems/)_
 
-* [Journal of Logic and Computation](https://academic.oup.com/logcom)
+* _[Journal of Logic and Computation](https://academic.oup.com/logcom)_
 
-* [IEEE Transactions on Knowledge and Data Engineering](https://www.computer.org/web/tkde)
+* _[IEEE Transactions on Knowledge and Data Engineering](https://www.computer.org/web/tkde)_
 
-* [ACM Transactions on Social Computing](https://tsc.acm.org/))
+* _[ACM Transactions on Social Computing](https://tsc.acm.org/)_
 
-* [Journal of Pragmatics](https://www.journals.elsevier.com/journal-of-pragmatics/))
+* _[Journal of Pragmatics](https://www.journals.elsevier.com/journal-of-pragmatics/)_
 
-* [Digital Scholarship in the Humanities](https://academic.oup.com/dsh)
+* _[Digital Scholarship in the Humanities](https://academic.oup.com/dsh)_
 
-* [International Journal on Document Analysis and Recognition](https://link.springer.com/journal/10032)
+* _[International Journal on Document Analysis and Recognition](https://link.springer.com/journal/10032)_
 
-* [Journal of the Association for Information Science and Technology (JASIST)](https://onlinelibrary.wiley.com/journal/15322890)
+* _[Journal of the Association for Information Science and Technology (JASIST)_](https://onlinelibrary.wiley.com/journal/15322890)_
 
-* [IEEE Transactions on Pattern Analysis and Machine Intelligence](https://www.computer.org/web/tpami)
+* _[IEEE Transactions on Pattern Analysis and Machine Intelligence](https://www.computer.org/web/tpami)_
 
-* [International Journal of Intelligent Systems](https://onlinelibrary.wiley.com/journal/1098111x)
+* _[International Journal of Intelligent Systems](https://onlinelibrary.wiley.com/journal/1098111x)_
 
-* [Journal of Artificial Intelligence Research](https://www.jair.org/index.php/jair)
+* _[Journal of Artificial Intelligence Research](https://www.jair.org/index.php/jair)_
 
-* [Journal of Automated Reasoning](https://www.springer.com/computer/theoretical+computer+science/journal/10817)
+* _[Journal of Automated Reasoning](https://www.springer.com/computer/theoretical+computer+science/journal/10817)_
 
-* [Journal of Machine Learning Research](http://www.jmlr.org)
+* _[Journal of Machine Learning Research](http://www.jmlr.org)_
 
-* [Machine Learning](https://www.springer.com/computer/ai/journal/10994)
+* _[Machine Learning](https://www.springer.com/computer/ai/journal/10994)_
 
