@@ -24,6 +24,8 @@ Conference on Intelligent System_.
 
 Outros eventos relacionados:
 
+### Conferencias A
+
 * _[ACL - International Conference of the Association of Computational Linguistics](https://www.aclweb.org/portal/acl)_
 
 * _[LREC - International Conference on Language Resources and Evaluation](http://www.lrec-conf.org)_
@@ -49,6 +51,8 @@ Outros eventos relacionados:
 * _[EACL - Conference of the European Chapter of the Association for Computational Linguistics](http://www.eacl2017.org/)_
 
 * _[TAC - Text Analysis Conference](https://tac.nist.gov)_
+
+### Conferencias B
 
 * _[SIGdial - Workshop on Discourse and Dialogue](http://workshops.sigdial.org/conference19/)_
 
@@ -91,6 +95,8 @@ Outros eventos relacionados:
 * _[RANLP - Recent Advances in Natural Language Processing](https://aclanthology.coli.uni-saarland.de/venues/ranlp)_
 
 * _[ICASSP - International Conference on Acoustics, Speech, and Signal Processing](https://2019.ieeeicassp.org)_
+
+### Conferencias C
 
 * _[WASSA - Workshop on Computational Approaches to Subjectivity and Sentiment Analysis](https://wt-public.emm4u.eu/wassa2018/)_
 

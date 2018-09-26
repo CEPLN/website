@@ -8,6 +8,8 @@ Dentre os periódicos dedicados ao PLN, alguns se destacam, como a Computational
 
 Outros periódicos relevantes de PLN e áreas afins são:
 
+### Journals A
+
 * _[ACM Transactions on Information Systems](https://tois.acm.orgx)_
 
 * _[Transactions of the Association for Computational Linguistics](https://www.transacl.org/ojs/index.php/tacl)_
@@ -54,6 +56,8 @@ Outros periódicos relevantes de PLN e áreas afins são:
 
 * _[Texto Livre: Linguagem e Tecnologia](http://www.periodicos.letras.ufmg.br/index.php/textolivre/announcement/view/186)_
 
+### Journals B
+
 * _[Computer and Information Science](http://www.ccsenet.org/journal/index.php/cis)_
 
 * _[Information Sciences](https://www.journals.elsevier.com/information-sciences)_
@@ -67,6 +71,8 @@ Outros periódicos relevantes de PLN e áreas afins são:
 * _[IEEE Intelligent Systems](https://publications.computer.org/intelligent-systems/)_
 
 * _[Journal of Logic and Computation](https://academic.oup.com/logcom)_
+
+### Journals C
 
 * _[IEEE Transactions on Knowledge and Data Engineering](https://www.computer.org/web/tkde)_
 
