@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mapeamento da comunidade
-permalink: /mapeamento-da-comunidade/
+permalink: /comunidade/
 ---
 
 A CE-PLN realizou um mapeamento inédito da área de PLN no Brasil,
