@@ -11,8 +11,8 @@ foi realizado no período de 14 de Maio a 10 de Julho de 2009 (2 meses)
 via uma enquete on-line amplamente divulgada e pela busca de
 informações no repositório _Registry of Latin American Researchers in
 Natural Language Processing and Computational Linguistics_ mantido
-pela [NAACL](http://www.naacl.org/) (_North American Chapter of the
-Association for Computational Linguistics_).
+pela [NAACL](http://www.naacl.org/) (North American Chapter of the
+Association for Computational Linguistics).
 
 Os resultados do mapeamento foram apresentados em forma de painel no
 STIL 2009 e podem ser encontrados no artigo abaixo publicado no
@@ -29,5 +29,4 @@ Além disso, com o auxílio da ferramenta
 [scriptLattes](http://scriptlattes.sourceforge.net/), foi feita uma
 varredura das informações no Currículo Lattes dos pesquisadores que
 participaram do mapeamento. As informações produzidas podem ser
-acessadas
-[aqui](http://www.nilc.icmc.usp.br/cepln/scriptLattes-PLN/index.html).
+acessadas [aqui](http://www.nilc.icmc.usp.br/cepln/scriptLattes-PLN/index.html).
