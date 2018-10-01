@@ -2,6 +2,7 @@
 layout: page
 title: Eventos
 permalink: eventos/
+hassub: True
 ---
 
 O principal evento nacional promovido pela CE-PLN é o __STIL -

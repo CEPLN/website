@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: subpage
 title: PROPOR
 permalink: /eventos/propor/
+root: "Eventos"
 ---
 
 O evento PROPOR (_International Conference on Computational Processing

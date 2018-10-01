@@ -1,7 +1,8 @@
 ---
-layout: page
+layout: subpage
 title: STIL
 permalink: /eventos/stil/
+root: "Eventos"
 ---
 
 _Simpósio Brasileiro de Tecnologia da Informação e da Linguagem Humana_

@@ -20,11 +20,43 @@
     {% for node in pages_list %}
       {% if node.title != null %}
         {% if node.layout == "page" %}
-          <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{  node.url | relative_url }}">{{ node.title }}</a>
+            {% if node.hassub != null %}  
+                  <div class="sidebar-nav-item">
+                    <a href="{{  node.url | relative_url }}"> {{ node.title }}</a>
+		    <a class="dropdown-btn"><i class="fa fa-caret-down"></i></a>
+		    <div class="dropdown-container">
+                  {% for subnode in pages_list %}
+		        {% if subnode.root == "Eventos" %}
+		        <a class="sidebar-nav-item" href="{{  subnode.url | relative_url }}">{{ subnode.title }}</a>
+		        {% endif%}
+		  {% endfor %}
+		  <!-- <a class="sidebar-nav-item sub" href="{{  subnode.url | relative_url }}">Mais</a> -->	
+		  </div>
+		  </div>
+		  
+	    {% else %}
+		  <a class="sidebar-nav-item{% if page.url == node.url %} active{% endif %}" href="{{  node.url | relative_url }}">{{ node.title }}</a>
+            {% endif %} 
         {% endif %}
       {% endif %}
     {% endfor %}
+     <script>
+    /* Loop through all dropdown buttons to toggle between hiding and showing its dropdown content - This allows the user to have multiple dropdowns without any conflict */
+    var dropdown = document.getElementsByClassName("dropdown-btn");
+    var i;
     
+    for (i = 0; i < dropdown.length; i++) {
+		    dropdown[i].addEventListener("click", function() {
+		    this.classList.toggle("active");
+		    var dropdownContent = this.nextElementSibling;
+		    if (dropdownContent.style.display === "block") {
+		    dropdownContent.style.display = "none";
+		    } else {
+		    dropdownContent.style.display = "block";
+		    }
+		    });
+		    }
+		    </script>
   </nav>
     <div class="sidebar-item">
     <p>
