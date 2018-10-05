@@ -7,15 +7,15 @@ hassub: True
 
 O principal evento nacional promovido pela CE-PLN é o __STIL -
 Simpósio Brasileiro de Tecnologia da Informação e da Linguagem
-Humana__, anteriormente conhecido como TIL (Workshop de Tecnologia da
-Informação e da Linguagem Humana). Todos os dados sobre o STIL e
-suas edições podem ser encontrado na [página do evento]({{ site.baseurl }}{% link EVENTOS/stil.md %}).
+Humana__. Todos os dados sobre o STIL e suas edições podem ser
+encontrado na [página do evento]({{ site.baseurl }}{% link EVENTOS/stil.md %}).
 
-O __PROPOR (International Conference on
-Computational Processing of Portuguese Language)__ é o evento mais
-importante para a língua portuguesa, sendo organizado por pesquisadores brasileiros e portugueses
-a cada 2 anos, realizado ora no Brasil, ora em Portugal. Mais informações sobre o
-evento podem ser encontradas na [página do evento]({{ site.baseurl }}{% link EVENTOS/propor.md %}).
+O __PROPOR (International Conference on Computational Processing of
+Portuguese Language)__ é o evento mais importante para a língua
+portuguesa, sendo organizado por pesquisadores brasileiros e
+portugueses a cada 2 anos, realizado ora no Brasil, ora em
+Portugal. Mais informações sobre o evento podem ser encontradas na
+[página do evento]({{ site.baseurl }}{% link EVENTOS/propor.md %}).
 
 No Brasil, destacam-se também os eventos gerais de Inteligência
 Artificial, como o SBIA - Simpósio Brasileiro de Inteligência

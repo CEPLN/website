@@ -5,12 +5,13 @@ permalink: /eventos/propor/
 root: "Eventos"
 ---
 
-O evento PROPOR (_International Conference on Computational Processing
-of Portuguese Language_) é realizado desde 1993, sendo a principal
-conferência na área de Processamento Computacional do Português,
-destinada à apresentação de resultados de pesquisas acadêmicas e
-tecnológicas e à integração dos grupos de pesquisa da
-área. Atualmente, é realizado ora no Brasil, ora em Portugal.
+O evento [PROPOR](http://propor.org) (International Conference on
+Computational Processing of Portuguese Language) é realizado desde
+1993, sendo a principal conferência na área de Processamento
+Computacional do Português, destinada à apresentação de resultados de
+pesquisas acadêmicas e tecnológicas e à integração dos grupos de
+pesquisa da área. Atualmente, é realizado ora no Brasil, ora em
+Portugal.
 
 Sua 1a edição, então sob a denominação de "Encontro para o
 Processamento da Língua Portuguesa Escrita e Falada", ocorreu em
@@ -127,7 +128,7 @@ participantes do PROPOR, quer seja como autores de artigos, membros de
 comitê de programa ou de organização, como organizador de eventos
 satélite, etc.
 
-### Renovação
+## Renovação
 
 Durante a realização do evento, haverá a substituição do organizador
 da edição anterior pelo organizador da edição futura (necessariamente
@@ -143,7 +144,7 @@ A renovação do CG ocorrerá durante a realização do evento, na reunião
 final da comunidade. Pode se dar por meio de indicação e aclamação ou
 por eleição, quando for necessário.
 
-### Atribuições
+## Atribuições
 
 Entre as atribuições do CG estão:
 

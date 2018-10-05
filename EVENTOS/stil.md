@@ -5,7 +5,7 @@ permalink: /eventos/stil/
 root: "Eventos"
 ---
 
-_Simpósio Brasileiro de Tecnologia da Informação e da Linguagem Humana_
+# Simpósio Brasileiro de Tecnologia da Informação e da Linguagem Humana
 
 O STIL (anteriormente conhecido como TIL - Workshop de Tecnologia da
 Informação e da Linguagem Humana) foi concebido em 2003 com o
@@ -32,16 +32,17 @@ Velha-ES, e foi a última com o nome de TIL. A 7a. edição, já com o
 nome de STIL, foi realizada na USP-São Carlos/SP em 2009. A 8a edição
 ocorreu em Cuiabá/MT em 2011, na UFMT. A 9a edição foi realizada em
 Fortaleza/CE em 2013, hospedada pelo BRACIS. Sua 10a edição foi
-ralizada em Natal/RN em 2015, também hospedada pelo
-BRACIS. Atualmente, o STIL é o maior evento da comunidade no Brasil,
-podendo ser considerado o único no país totalmente dedicado ao tema.
+ralizada em Natal/RN em 2015, também hospedada pelo BRACIS. A 10a
+edição ocorreu também com o BRACIS em Uberlândia em 2017. Atualmente,
+o STIL é o maior evento da comunidade no Brasil, considerado o único
+no país totalmente dedicado ao tema.
 
 O STIL é o principal evento nacional apoiado e organizado pela
 Comissão Especial de Processamento de Linguagem Natural da Sociedade
 Brasileira de Computação (SBC).
  
 
-__Edições passadas do STIL__
+## Edições passadas do STIL
 
 * __STIL 2017__
 	* Data: 2 a 4 de Outubro
