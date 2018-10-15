@@ -7,6 +7,10 @@ root: "Eventos"
 
 # Simpósio Brasileiro de Tecnologia da Informação e da Linguagem Humana
 
+O STIL é o principal evento nacional apoiado e organizado pela
+Comissão Especial de Processamento de Linguagem Natural da Sociedade
+Brasileira de Computação (SBC).
+
 O STIL (anteriormente conhecido como TIL - Workshop de Tecnologia da
 Informação e da Linguagem Humana) foi concebido em 2003 com o
 propósito de estimular o desenvolvimento de uma área genuinamente
@@ -37,9 +41,8 @@ edição ocorreu também com o BRACIS em Uberlândia em 2017. Atualmente,
 o STIL é o maior evento da comunidade no Brasil, considerado o único
 no país totalmente dedicado ao tema.
 
-O STIL é o principal evento nacional apoiado e organizado pela
-Comissão Especial de Processamento de Linguagem Natural da Sociedade
-Brasileira de Computação (SBC).
+Os proceedings das duas últimas edições já estão na 
+[biblioteca digital da SBC](http://portaldeconteudo.sbc.org.br/index.php/stil/issue/archive).
  
 
 ## Edições passadas do STIL
