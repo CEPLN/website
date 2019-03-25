@@ -47,9 +47,13 @@ Os proceedings das duas últimas edições já estão na
 
 ## Edições passadas do STIL
 
+* __STIL 2019__
+	* Data: 15 a 18 de Outubro
+	* Local: Salvador – BA
+	* [Site](http://comissoes.sbc.org.br/ce-pln/stil2019/)
 * __STIL 2017__
 	* Data: 2 a 4 de Outubro
-	* Local: Uberlândia - MG
+	* Local: Uberlândia – MG
 	* [Site](http://www.bracis2017.ufu.br/stil-symposium-information-and-human-language-technology)
 * __STIL 2015__
 	* Data: 4 a 7 de Novembro
