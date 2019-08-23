@@ -63,6 +63,7 @@ Outros eventos relacionados:
 * [RANLP - Recent Advances in Natural Language Processing](https://aclanthology.coli.uni-saarland.de/venues/ranlp)
 * [ICASSP - International Conference on Acoustics, Speech, and Signal Processing](https://2019.ieeeicassp.org)
 * [TLT - International Workshop on Treebanks and Linguistic Theories](https://www.uio.no/english/research/news-and-events/events/conferences/tlt17/)
+* [International Lexical-Functional Grammar Conference](http://web.stanford.edu/group/cslipublications/cslipublications/LFG/)
 
 ### Conferências C
 
