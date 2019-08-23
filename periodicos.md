@@ -15,6 +15,8 @@ Outros periódicos relevantes de PLN e áreas afins são:
 * [Natural Language Engineering](https://www.cambridge.org/core/journals/natural-language-engineering)
 * [Natural Language Processing](https://www.jstage.jst.go.jp/browse/jnlp)
 * [Language Resources and Evaluation Journal](https://link.springer.com/journal/10579)
+* [Journal of Language Modeling](http://jlm.ipipan.waw.pl/index.php/JLM)
+* [The Prague Bulletin of Mathematical Linguistics](https://ufal.mff.cuni.cz/pbml)
 
 ### Journals B
 
